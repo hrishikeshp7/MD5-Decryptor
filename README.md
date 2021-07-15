@@ -1,2 +1,4 @@
-# MD5-Decryptor
-A Online MD5 Hash Decryptor
+# MD5-Hasher
+A Online MD5 Hasher
+
+## Verifier Coming Soon 
