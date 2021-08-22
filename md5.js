@@ -15,6 +15,9 @@
  * Other contributors: Greg Holt, Andrew Kepert, Ydnar, Lostinet
  * Distributed under the BSD License
  * See http://pajhome.org.uk/crypt/md5 for more info.
+ 
+ TRC 
+ 
  */
 
 /* global define */
